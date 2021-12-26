@@ -1,0 +1,15 @@
+body{
+	width: 500px;
+	background-color:#EADADA;
+	text-indent: 2em;
+	font-size: 16pt;
+}
+img{
+	border: 2px;
+	text-align: center;
+	float: right;
+	width: 300px;
+}
+.huanrao{
+	width: 900px;
+}
